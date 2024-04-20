@@ -44,6 +44,10 @@ python manage.py runserver
 ```
 Then, navigate to [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your web browser to access the application.
 
+You should be able to see this helper index page;
+<img width="1088" alt="image" src="https://github.com/EbubekirUstalar/blog_api/assets/23316504/0e9f13cc-59bd-4717-8ae7-001c798df1bb">
+
+
 ## Used Libraries
 
 The project relies on the following libraries:
