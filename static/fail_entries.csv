@@ -1,0 +1,7 @@
+type,id,parent_id,content
+BLOG,1,,My first blog!
+COMMENT,2,1,Nice work
+COMMENT,3,1,"Wow, look at that"
+BLOG,4,,Cats on the internet are funny
+COMMENT,5,3,;-<
+BLOG,6,5,How does this thing work?
